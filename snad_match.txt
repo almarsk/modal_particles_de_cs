@@ -639,9 +639,6 @@
 83661:Mé nadšení pro vytvoření senzorové technologie snad pramení z celoživotní lásky pro čidla a techniku. 
 83662-Když mi bylo šest let, spadl jeden rodinný přítel v koupelně a způsobil si vážná zranění. 
 --
-85074-Mnozí mě viděli, ale málokdo mě opravdu znal. 
-85075:A chápu to – bylo snadné zapomenout, že "ta žena" je skutečná, má duši a kdysi nebyla zničená. 
-85076-Když se mi to před 17 lety stalo, nebyl pro to ještě název. 
 85077-Dnes tomu říkáme kyberšikana a virtuální obtěžování. 
 85078:Dnes bych se s vámi ráda podělila o některé své zkušennosti, jak mi tato zkušenost pomohla utvářet své kulturní postřehy a jak snad moje zkušenost může vést ke změnám, díky kterým budou ostatní trpět méně. 
 85079-V roce 1998 jsem přišla o svou pověst a svou důstojnost. 
@@ -678,13 +675,6 @@
 88292:Snad v pořádku jsem konečně, snad mi to prostě jedno je, snad Bůh mé modlitby konečně vyslyšel. 
 88293-Děkuji. 
 --
-88291-Modlitby mi v hrdle váznou. 
-88292:Snad v pořádku jsem konečně, snad mi to prostě jedno je, snad Bůh mé modlitby konečně vyslyšel. 
-88293-Děkuji. 
---
-88595-Před filmem "Rain Man" z roku 1988 věděl jen omezený okruh specialistů, jak autismus vypadá, ale po nezapomenutelném výkonu Dustina Hoffmana v roli Raymonda Babbitta, oceněném čtyřmi Oscary, věděli pediatři, psychologové, učitelé a rodiče po celém světě, jak autismus vypadá. 
-88596:Shodou okolností ve stejné době byly zavedeny první snadno proveditelné diagnostické testy. 
-88597-Už jste nepotřebovali protekci, aby úzký okruh expertů diagnostikoval Vaše dítě. 
 88598-Kombinace filmu "Rain Man" změny diagnostických kritérií a zavedení těchto testů společně způsobily bouři povědomí o autismu. 
 88599:Počet diagnostikovaných začal stoupat, jak Lorna a Judith předpovídaly a snad i doufaly, což pomohlo autistům a jejich rodinám konečně získat podporu a služby, které potřebují. 
 88600-A pak Andrew Wakefield přišel s tím, že za nárůstem diagnostikovaných případů stojí vakcinace. Jednoduchá, silná a svůdně uvěřitelná teorie, která je stejně nesprávná, jako Kannerova teorie o tom, že je autismus velmi vzácný. 
@@ -737,10 +727,6 @@
 94470:Příští roky nám snad napoví, jestli jsme schopni i nadále prohlubovat naše poznatky o přírodě, nebo jestli, snad poprvé v dějinách vědy, narazíme na otázky, na které nelze odpovědět. Ne proto, že by na to nestačily naše mozky nebo technika, ale protože to nedovolí samotné zákony fyziky. 
 94471-Zásadní problém je v tom, že je náš vesmír až přespříliš zajímavý. 
 --
-94469-Po sto letech jsme ve fyzice dospěli k jinému zlomovému okamžiku, ale dnes je v sázce něco trochu jiného. 
-94470:Příští roky nám snad napoví, jestli jsme schopni i nadále prohlubovat naše poznatky o přírodě, nebo jestli, snad poprvé v dějinách vědy, narazíme na otázky, na které nelze odpovědět. Ne proto, že by na to nestačily naše mozky nebo technika, ale protože to nedovolí samotné zákony fyziky. 
-94471-Zásadní problém je v tom, že je náš vesmír až přespříliš zajímavý. 
---
 94476-Proč vůbec něco je, místo toho, aby nic nebylo? 
 94477:Tento rozpor je nejnaléhavějším problémem v základní fyzice a v příštích letech snad zjistíme, zda ho vůbec někdy budeme schopni vyřešit. 
 94478-Jádrem tohoto problému jsou dvě čísla, dvě nesmírně nebezpečná čísla. 
@@ -772,12 +758,6 @@
 99426-především nabízejí komukoli venku vyvinout jeho vlastní kolegiální revizní proces, takže se mohou soustředit na obsah v úložišti který považují za opravdu důležitý 
 99427:a snad je napadne TED jako potencionální čočka. 
 99428-Rád bych skončil konstatováním, že na to můžete opravdu pohlížet jako na impuls k akci. 
---
-100769-A já jsem potichu, nedokážu odpovědět. 
-100770:Po chvíli trapného ticha povídá: "Zapomněl si snad své jméno?" 
-100771-A já stále zticha. 
-100772:A poté, pomalu, se všichni ostatní začnou ke mně otáčet a ptát se skoro jedním hlasem: (voice-over několika hlasů) "Zapomněl si snad své jméno?" 
-100773-Jak jsou hlasy stále hlasitější, chci odpovědět, ale nedělám to. 
 --
 100769-A já jsem potichu, nedokážu odpovědět. 
 100770:Po chvíli trapného ticha povídá: "Zapomněl si snad své jméno?" 
@@ -980,7 +960,7 @@
 136713-Skutečně věřím, že se ta změna stane. Huntington's Kitchen. 
 --
 138123-Dokonce jsme trochu prodělali. Ani slávu nezískali. 
-138124:Lidé si mysleli, že v pauze mezi „Titanicem" a „Avatarem" jsem si snad koiusal nehty někde na pláži. 
+138124:Lidé si mysleli, že v pauze mezi „Titanicem" a „Avatarem" jsem si snad kousal nehty někde na pláži. 
 138125-Natočil jsem tyhle filmy, dokumentární snímky pro velmi úzké publikum. 
 --
 138976-Ty čekají na naše objevení. 

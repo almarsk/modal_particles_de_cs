@@ -655,10 +655,7 @@
 83660-Das ist eine Skizze meines vorläufigen Designs. 
 83661:Ich wollte eine sensorbasierte Technologie entwickeln, was von meiner Liebe für Sensoren und Technik herrührt. 
 83662-Als ich sechs Jahre alt war, rutschte ein älterer Freund der Familie im Bad aus und erlitt schwere Verletzungen. 
---
-85074-Ich wurde von vielen betrachtet, aber nur wenige kannten mich tatsächlich. 
-85075:Und ich verstehe schon: Es war einfach zu vergessen, dass jene Frau Dimensionen hatte, eine Seele hatte, einmal ungebrochen war. 
-85076-Als mir das vor 17 Jahre passierte, gab es dafür keinen Namen. 
+-- 
 85077-Heutzutage nennen wir es Cyber-Mobbing und Online-Belästigung. 
 85078:Heute möchte ich einen Teil meiner Erfahrungen mit Ihnen teilen, möchte erklären, wie diese Erfahrungen mein kulturelles Bewusstsein geprägt haben, und wie ich hoffe, dass meine Erfahrungen vielleicht zu einer Veränderung führen, die das Leiden der anderen verringert. 
 85079-1998 habe ich meinen Ruf und meine Würde verloren. 
@@ -695,13 +692,6 @@
 88292:Vielleicht bin ich endlich geheilt. Vielleicht interessiert es mich einfach nicht mehr. Vielleicht hat Gott meine Gebete endlich erhört. 
 88293-Danke. 
 --
-88291-Meine Gebete bleiben mir jetzt im Halse stecken. 
-88292:Vielleicht bin ich endlich geheilt. Vielleicht interessiert es mich einfach nicht mehr. Vielleicht hat Gott meine Gebete endlich erhört. 
-88293-Danke. 
---
-88595-Vor dem Film "Rain Man" im Jahr 1988, wusste nur ein kleiner Kreis von Experten, was Autismus war, aber nach der unvergesslichen Darstellung des Raymond Babbitt durch Dustin Hoffman für die "Rain Man" vier Oscars bekam, wussten Kinderärzte, Psychologen, Lehrer und Eltern auf der ganzen Welt, was Autismus war. 
-88596:Zufälligerweise zur gleichen Zeit gab es die ersten einfachen klinischen Tests, um Autismus zu diagnostizieren. 
-88597-Man brauchte nicht länger eine Verbindung zu diesem kleinen Expertenkreis, damit das Kind beurteilt wurde. 
 88598-Die Kombination aus "Rain Man", den veränderten Kriterien und der Einführung dieser Tests bewirkte einen Netzwerk-Effekt, eine Verkettung von Umständen, die Autismus ins Bewusstsein rückten. 
 88599:Die Anzahl der Diagnosen stieg an, wie Lorna und Judith es vorausgesagt, ja, es gehofft hatten, damit Autisten und deren Familien endlich die Unterstützung und die Leistungen bekamen, die ihnen zustanden. 
 88600-Dann kam Andrew Wakefield und schrieb die Erhöhung der Diagnosen den Impfungen zu, eine einfache, mächtige und verführend glaubwürdige Geschichte, die so falsch war wie Kanners Theorie, dass Autismus selten wäre. 
@@ -754,10 +744,6 @@
 94470:Die nächsten Jahre zeigen uns, ob wir es schaffen, unser Verständnis der Natur weiter zu vertiefen oder ob wir vielleicht zum ersten Mal in der Geschichte der Wissenschaften an einen Punkt kommen, an dem wir weitere Fragen nicht mehr beantworten können -- nicht, weil wir das Wissen oder die Technologie nicht haben, sondern weil es uns die Gesetze der Physik selbst nicht erlauben. 
 94471-Das ist der Kern des Problems: Das Universum ist viel zu faszinierend. 
 --
-94469-100 Jahre später finden wir uns an einem weiteren Wendepunkt in der Physik. Doch worum es jetzt geht, ist etwas völlig anderes. 
-94470:Die nächsten Jahre zeigen uns, ob wir es schaffen, unser Verständnis der Natur weiter zu vertiefen oder ob wir vielleicht zum ersten Mal in der Geschichte der Wissenschaften an einen Punkt kommen, an dem wir weitere Fragen nicht mehr beantworten können -- nicht, weil wir das Wissen oder die Technologie nicht haben, sondern weil es uns die Gesetze der Physik selbst nicht erlauben. 
-94471-Das ist der Kern des Problems: Das Universum ist viel zu faszinierend. 
---
 94476-Warum ist da "etwas" und nicht "nichts"? 
 94477:Dieser Widerspruch ist das drängendste Problem in der Grundlagenphysik, und in einigen Jahren werden wir sehen, ob wir es lösen können oder nicht. 
 94478-Der Kern des Problems sind zwei Zahlen, zwei äußerst gefährliche Zahlen. 
@@ -789,12 +775,6 @@
 99426-Sie lassen jeden einzelnen seinen eigenen Prozess der Kollegenkontrolle entwickeln, so dass man sich auf die Inhalte konzentrieren kann, die man für wirklich wichtig hält. 
 99427:Sie könne sich TED als potenzielle Linse vorstellen. 
 99428-Ich möchte mit Folgendem schließen, Sie können das als Handlungsaufruf interpretieren. 
---
-100769-Ich bleibe still, kann nicht antworten. 
-100770:Nach einer unangenehmen Pause fragt er: "Hast du deinen Namen vergessen?" 
-100771-Ich bin immer noch still. 
-100772:Dann drehen sich alle Menschen im Raum langsam in meine Richtung und fragen fast einstimmig: (Off-Ton, mehrere Stimmen) "Hast du deinen Namen vergessen?" 
-100773-Der Chor wird lauter und ich will antworten, aber ich tue es nicht. 
 --
 100769-Ich bleibe still, kann nicht antworten. 
 100770:Nach einer unangenehmen Pause fragt er: "Hast du deinen Namen vergessen?" 
